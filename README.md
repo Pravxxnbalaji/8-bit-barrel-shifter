@@ -172,13 +172,12 @@ This makes it an ideal design for **FPGA and VLSI implementations** where timing
 
 ## 🧠 Author
 **Project Title:** 8-Bit Barrel Shifter Based Multiplier  
-**Developed by:** [Your Name Here]  
-**Institution:** [Your College/University Name]  
+**Institution:** [INDIAN INSTITUTE OF INFORMATION TECHNOLOGY DESIGN AND MANUFACTURING KURNOOL]  
 **Year:** 2025  
 
 ---
 
-> ⚡ *"Fast, efficient, and FPGA-optimized — the barrel shifter based multiplier demonstrates the power of parallel hardware design."*
+
 
 
 
