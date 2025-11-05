@@ -74,6 +74,20 @@ The result is a **16-bit product** representing \( A \times B \).
 
 ---
 
+## Simulation Results
+
+Below are the waveform simulation outputs from the testbench of the Booth multiplier.
+
+### Case 1
+![Simulation 1](images/1.png)
+
+### Case 2
+![Simulation 2](images/2.png)
+
+### Case 3
+![Simulation 3](images/3.png)
+
+
 ## 🔹 Block Diagram
 
          +-----------------------------+
@@ -112,6 +126,7 @@ The result is a **16-bit product** representing \( A \times B \).
    Generate the bitstream, program the FPGA, and verify results through LEDs, switches, or UART output.
 
 ---
+
 
 ## 🔹 Advantages
 ✅ Single-cycle shift operation  
